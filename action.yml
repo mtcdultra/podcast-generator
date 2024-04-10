@@ -1,5 +1,5 @@
-name: "Outro Nome"
-author: "mtcd"
+name: "Podcast Generator Testing-Study"
+author: "mtcdultra"
 description: "Generates a feed for a podcast from a YAML file"
 runs:
   using: "docker"
