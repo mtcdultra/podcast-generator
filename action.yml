@@ -1,4 +1,4 @@
-name: "Another Name"
+name: "Outro Nome"
 author: "mtcd"
 description: "Generates a feed for a podcast from a YAML file"
 runs:
